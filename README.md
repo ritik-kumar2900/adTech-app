@@ -7,4 +7,4 @@ password- Aryan2000!
 
 
 **Main folder->example->lib->main.dart** .......this is the path to main source code
-other things are sdk
+Other things are sdk
